@@ -1,5 +1,5 @@
-# terpcraft.net
-The website for TerpCraft, the Minecraft server at the University of Maryland.
+# minecraft.umcpgaming.org
+The website for minecraft.umcpgaming.org, the Minecraft server at the University of Maryland.
 
 
 ## To-Do List
